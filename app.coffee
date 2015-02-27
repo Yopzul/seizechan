@@ -6,18 +6,15 @@ boards = require './routes/boards'
 
 app = new express()
 
-coffeeDir = __dirname + '/public/coffee'
-publicDir = __dirname + '/publis/js'
-viewsDir =  __dirname + '/views'
+publicDir = __dirname + '/public'
 
+# Middlewares
 app.use logger
-app.set 'views', viewsDir
-app.set 'view engine', 'jade'
 app.use express.static(publicDir)
-
 app.use '/boards', boards
 
+# Routes
 app.get '/', (req, res) ->
-  res.render 'index'
+  res.sendFile '#{publicDir}/index.html'
 
 module.exports = app

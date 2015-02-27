@@ -25,6 +25,10 @@
     "jade": "^1.9.2"
   },
   "devDependencies": {
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-coffee": "^0.13.0",
+    "grunt-contrib-jade": "^0.14.1",
+    "grunt-contrib-stylus": "^0.20.0",
     "mocha": "^2.1.0",
     "supertest": "^0.15.0"
   }
