@@ -1,0 +1,10 @@
+#!/usr/bin/env coffee
+CSON = require 'cson'
+app = require '../app'
+util = require '../util'
+
+conf = CSON.load 'conf.cson'
+port = process.env.PORT or conf.port
+
+app.listen port, ->
+  util.logInfo "Listening on port #{port}..."
