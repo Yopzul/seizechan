@@ -103,3 +103,22 @@ Fri Feb 27 2015 16:11:46 GMT+0100 (Romance Standard Time) [INFO] GET on /boards
 Fri Feb 27 2015 16:11:46 GMT+0100 (Romance Standard Time) [INFO] GET on /boards
 Fri Feb 27 2015 16:11:46 GMT+0100 (Romance Standard Time) [INFO] PUT on /boards
 Fri Feb 27 2015 16:11:46 GMT+0100 (Romance Standard Time) [INFO] PUT on /boards
+Fri Feb 27 2015 19:46:08 GMT+0100 (Romance Standard Time) [INFO] GET on /
+Fri Feb 27 2015 19:46:08 GMT+0100 (Romance Standard Time) [INFO] GET on /
+Fri Feb 27 2015 19:46:08 GMT+0100 (Romance Standard Time) [INFO] GET on /boards
+Fri Feb 27 2015 19:46:08 GMT+0100 (Romance Standard Time) [INFO] GET on /boards
+Fri Feb 27 2015 19:50:52 GMT+0100 (Romance Standard Time) [INFO] Listening on port 3000...
+Fri Feb 27 2015 19:50:55 GMT+0100 (Romance Standard Time) [INFO] GET on /
+Fri Feb 27 2015 19:50:55 GMT+0100 (Romance Standard Time) [INFO] GET on /stylesheets/style.css
+Fri Feb 27 2015 19:50:55 GMT+0100 (Romance Standard Time) [INFO] GET on /components/angular/angular.min.js
+Fri Feb 27 2015 19:50:55 GMT+0100 (Romance Standard Time) [INFO] GET on /components/angular-animate/angular-animate.min.js
+Fri Feb 27 2015 19:50:55 GMT+0100 (Romance Standard Time) [INFO] GET on /components/angular-arial/angular-arial.min.js
+Fri Feb 27 2015 19:50:55 GMT+0100 (Romance Standard Time) [INFO] GET on /components/angular-material/angular-material.min.js
+Fri Feb 27 2015 19:50:55 GMT+0100 (Romance Standard Time) [INFO] GET on /components/angular-arial/angular-arial.min.js
+Fri Feb 27 2015 19:50:57 GMT+0100 (Romance Standard Time) [INFO] GET on /
+Fri Feb 27 2015 19:50:57 GMT+0100 (Romance Standard Time) [INFO] GET on /stylesheets/style.css
+Fri Feb 27 2015 19:50:57 GMT+0100 (Romance Standard Time) [INFO] GET on /components/angular/angular.min.js
+Fri Feb 27 2015 19:50:57 GMT+0100 (Romance Standard Time) [INFO] GET on /components/angular-animate/angular-animate.min.js
+Fri Feb 27 2015 19:50:57 GMT+0100 (Romance Standard Time) [INFO] GET on /components/angular-arial/angular-arial.min.js
+Fri Feb 27 2015 19:50:57 GMT+0100 (Romance Standard Time) [INFO] GET on /components/angular-material/angular-material.min.js
+Fri Feb 27 2015 19:50:57 GMT+0100 (Romance Standard Time) [INFO] GET on /components/angular-arial/angular-arial.min.js
