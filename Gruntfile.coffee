@@ -19,18 +19,19 @@ module.exports = (grunt) ->
             debug: no
         files:
           'public/index.html': 'views/index.jade'
+          'public/templates/posts/index.html': 'views/templates/posts/index.jade'
 
     stylus:
       compile:
         options:
-          paths: ['views/stylesheets']
+          paths: ['views/styles']
         files:
-          'public/stylesheets/style.css': 'views/stylesheets/*.styl'
+          'public/styles/style.css': 'views/styles/*.styl'
 
     clean:
       options:
         force: yes
-      client: ['public/*.html', 'public/scripts/*.js', 'public/stylesheets/*.css']
+      client: ['public/*.html', 'public/scripts/*.js', 'public/styles/*.css']
 
 
   grunt.loadNpmTasks 'grunt-contrib-coffee'

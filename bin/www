@@ -2,6 +2,7 @@
 CSON = require 'cson'
 app = require '../app'
 util = require '../util'
+Board = require '../models/board'
 
 conf = CSON.load 'conf.cson'
 port = process.env.PORT or conf.port

@@ -1,6 +1,9 @@
 # Seizechan
 
-test
+## Work still in progress
+
+A basic anonymous textboard.
+It uses Node.js and CouchDB as back-end.
 
 ## Tests
 
